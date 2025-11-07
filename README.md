@@ -76,10 +76,8 @@ project/
 │   ├── 1.txt
 │   └── ...
 ├── query.txt
-├── 110000229_project.cpp
-├── 110000229_Report.pdf
-├── Final_Project_formal.pptx
-└── README.md
+├── project.cpp
+├── report.pdf
 
 ````
 
