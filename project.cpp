@@ -253,3 +253,4 @@ int main(int argc, char *argv[])
 //g++ -std=c++17 -o essay-search.exe ./main.cpp
 //essay-search.exe data query.txt output.txt
 //essay-search.exe data query.txt myans.txt
+
